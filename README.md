@@ -1,1 +1,1 @@
-# MQManager
+# MQ Manager
